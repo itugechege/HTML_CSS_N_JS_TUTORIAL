@@ -64,11 +64,6 @@ c.lineTo(280,280);
 c.strokeStyle = "#9D7D67";
 c.stroke();
 
-//  //Arch / Circle
-// c.beginPath();
-// c.arc(245, 305, 30, 0, Math.PI*2,false);
-// c.strokeStyle = "#B7A9A0";
-// c.stroke();
 
 
     var j = 395;
